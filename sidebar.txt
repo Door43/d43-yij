@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yij:home|Door43 (yij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yij|d43-yij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yij/archive/master.zip|d43-yij.zip]]
+
+**Recent Changes**
+{{changes>ns = yij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yij|Ethnologue data]]
+
